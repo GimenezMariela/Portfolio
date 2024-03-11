@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PORTFOLIO on Mariela Giménez</title>
-    <link>https://gimenezmariela.github.io/Portfolio/portfolio/</link>
-    <description>Recent content in PORTFOLIO on Mariela Giménez</description>
+    <title>Swift on Mariela Giménez</title>
+    <link>https://gimenezmariela.github.io/Portfolio/techs/swift/</link>
+    <description>Recent content in Swift on Mariela Giménez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Mariela Gimenez</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
-    <atom:link href="https://gimenezmariela.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gimenezmariela.github.io/Portfolio/techs/swift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BullEyes</title>
       <link>https://gimenezmariela.github.io/Portfolio/portfolio/sample-project/</link>

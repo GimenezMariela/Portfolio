@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Mariela Giménez</title>
+    <link>https://gimenezmariela.github.io/Portfolio/designs/</link>
+    <description>Recent content in Designs on Mariela Giménez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© Mariela Gimenez</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://gimenezmariela.github.io/Portfolio/designs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photoshop</title>
+      <link>https://gimenezmariela.github.io/Portfolio/designs/photoshop/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://gimenezmariela.github.io/Portfolio/designs/photoshop/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
