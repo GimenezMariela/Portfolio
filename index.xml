@@ -7,15 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Mariela Gimenez</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 09:37:55 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 19:49:05 +0200</lastBuildDate>
     <atom:link href="https://gimenezmariela.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Experiencia Laboral</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/getting-started/</link>
-      <pubDate>Mon, 11 Mar 2024 09:37:55 +0200</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/getting-started/</guid>
-      <description>&lt;p&gt;mljbjk&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Experiencia Laboral</title>
       <link>https://gimenezmariela.github.io/Portfolio/post/portfolio-definition/</link>
@@ -29,20 +22,6 @@
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       <guid>https://gimenezmariela.github.io/Portfolio/portfolio/sample-project/</guid>
       <description>Este es un proyecto con el que empece&#xA;HITFIT&#xA;Este es una aplicación de hacer ejercicio, la cual te podria acompañar y recuerda lo que haz echo anteriormente&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: https://www.sampleorganization.org&#xA;Landmarks&#xA;Este es una aplicación sencilla en la que puedes listar los lugares y filtrar los que son favoritos y no&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: &amp;quot;&amp;quot;&#xA;Setas&#xA;Este es una aplicación que si eres aficionado con las setas te encantará, en la que puedes hacer fotos, compartir, y conocer personas con la misma afision a la setas</description>
-    </item>
-    <item>
-      <title>Pages</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/pages/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/pages/</guid>
-      <description>&lt;p&gt;Lenguaje:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hábilidades</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/define-specific-og-image/</guid>
-      <description>Habilidades:</description>
     </item>
   </channel>
 </rss>

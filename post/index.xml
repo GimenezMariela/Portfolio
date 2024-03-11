@@ -7,35 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Mariela Gimenez</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 09:37:55 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 19:49:05 +0200</lastBuildDate>
     <atom:link href="https://gimenezmariela.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Experiencia Laboral</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/getting-started/</link>
-      <pubDate>Mon, 11 Mar 2024 09:37:55 +0200</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/getting-started/</guid>
-      <description>&lt;p&gt;mljbjk&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Experiencia Laboral</title>
       <link>https://gimenezmariela.github.io/Portfolio/post/portfolio-definition/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       <guid>https://gimenezmariela.github.io/Portfolio/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Aquí está algunas de mis experiencias laborales&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pages</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/pages/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/pages/</guid>
-      <description>&lt;p&gt;Lenguaje:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hábilidades</title>
-      <link>https://gimenezmariela.github.io/Portfolio/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
-      <guid>https://gimenezmariela.github.io/Portfolio/post/define-specific-og-image/</guid>
-      <description>Habilidades:</description>
     </item>
   </channel>
 </rss>
