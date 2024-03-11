@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formación on My New Hugo Site</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Formación on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 09:37:55 +0200</lastBuildDate>
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiencia Laboral</title>
+      <link>https://example.org/post/getting-started/</link>
+      <pubDate>Mon, 11 Mar 2024 09:37:55 +0200</pubDate>
+      <guid>https://example.org/post/getting-started/</guid>
+      <description>&lt;p&gt;mljbjk&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiencia Laboral</title>
+      <link>https://example.org/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <guid>https://example.org/post/portfolio-definition/</guid>
+      <description>&lt;p&gt;Aquí está algunas de mis experiencias laborales&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>https://example.org/post/pages/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      <guid>https://example.org/post/pages/</guid>
+      <description>&lt;p&gt;Lenguaje:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hábilidades</title>
+      <link>https://example.org/post/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <guid>https://example.org/post/define-specific-og-image/</guid>
+      <description>Habilidades:</description>
+    </item>
+  </channel>
+</rss>

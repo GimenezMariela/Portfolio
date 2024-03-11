@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal on My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Principal on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 09:37:55 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiencia Laboral</title>
+      <link>https://example.org/post/getting-started/</link>
+      <pubDate>Mon, 11 Mar 2024 09:37:55 +0200</pubDate>
+      <guid>https://example.org/post/getting-started/</guid>
+      <description>&lt;p&gt;mljbjk&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experiencia Laboral</title>
+      <link>https://example.org/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <guid>https://example.org/post/portfolio-definition/</guid>
+      <description>&lt;p&gt;Aquí está algunas de mis experiencias laborales&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BullEyes</title>
+      <link>https://example.org/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.org/portfolio/sample-project/</guid>
+      <description>Este es un proyecto con el que empece&#xA;HITFIT&#xA;Este es una aplicación de hacer ejercicio, la cual te podria acompañar y recuerda lo que haz echo anteriormente&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: https://www.sampleorganization.org&#xA;HiitFit&#xA;Landmarks&#xA;Este es una aplicación sencilla en la que puedes listar los lugares y filtrar los que son favoritos y no&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: &amp;quot;&amp;quot;&#xA;Landmarks&#xA;Setas&#xA;Este es una aplicación que si eres aficionado con las setas te encantará, en la que puedes hacer fotos, compartir, y conocer personas con la misma afision a la setas</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>https://example.org/post/pages/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      <guid>https://example.org/post/pages/</guid>
+      <description>&lt;p&gt;Lenguaje:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hábilidades</title>
+      <link>https://example.org/post/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <guid>https://example.org/post/define-specific-og-image/</guid>
+      <description>Habilidades:</description>
+    </item>
+  </channel>
+</rss>

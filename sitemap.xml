@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/post/getting-started/</loc>
+    <lastmod>2024-03-11T09:37:55+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/</loc>
+    <lastmod>2024-03-11T09:37:55+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2024-03-11T09:37:55+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/portfolio-definition/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/portfolio/sample-project/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/portfolio/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/pages/</loc>
+    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/post/define-specific-og-image/</loc>
+    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/skil/</loc>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+</urlset>

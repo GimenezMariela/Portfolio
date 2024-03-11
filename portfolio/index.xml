@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on My New Hugo Site</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in PORTFOLIO on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BullEyes</title>
+      <link>https://example.org/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.org/portfolio/sample-project/</guid>
+      <description>Este es un proyecto con el que empece&#xA;HITFIT&#xA;Este es una aplicación de hacer ejercicio, la cual te podria acompañar y recuerda lo que haz echo anteriormente&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: https://www.sampleorganization.org&#xA;HiitFit&#xA;Landmarks&#xA;Este es una aplicación sencilla en la que puedes listar los lugares y filtrar los que son favoritos y no&#xA;lenguaje: swift, SwiftUi&#xA;projectUrl: &amp;quot;&amp;quot;&#xA;Landmarks&#xA;Setas&#xA;Este es una aplicación que si eres aficionado con las setas te encantará, en la que puedes hacer fotos, compartir, y conocer personas con la misma afision a la setas</description>
+    </item>
+  </channel>
+</rss>
